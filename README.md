@@ -117,14 +117,3 @@ Contributions are welcome!
 Open an issue or submit a pull request for improvements or bug fixes.
 
 ```
-
----
-
-If you want, I can:
-- Tailor this README specifically for **MCP + LLM tooling**
-- Add **example MCP request/response**
-- Write a **`.gitignore`** for this project
-- Optimize it for **GitHub stars & clarity**
-
-Just tell me 👍
-```
